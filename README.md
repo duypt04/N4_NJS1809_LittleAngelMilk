@@ -31,8 +31,27 @@ Dự án phát triển một trang web bán sữa mang tên "Little Angel Milk",
 - **Deployment**:
 
 ## Bảng Phân Công Các Thành Viên
-| Thành Viên        | Vai Trò                | Công Việc Chính                                        |
-|-------------------|------------------------|--------------------------------------------------------|
+## User Stories by Sprint
+
+| Sprint  | User Story (US) IDs                       |
+|---------|-------------------------------------------|
+| Sprint 1| US1, US2, US3, US4                        |
+|         | US5, US6, US7, US8                        |
+|         | US9, US10, US11, US12                     |
+|         | US13, US14, US15, US16                    |
+|         | US17, US18, US19, US20                    |
+|         | US21, US22, US23                          |
+
+## Member Assignments for Sprint 1
+
+| Member      | User Story (US) Assigned                                    |
+|-------------|-------------------------------------------------------------|
+| Trịnh Đức Anh            | US16, US20, US21, US23                         |
+| Nguyễn Thanh Mai         | US4, US6, US7                                  |
+| Bùi Diệp Anh             | US1, US2, US5, US11                            |
+| Hân                      | US3, US15, US18, US19                          |
+| Hiếu                     | US12, US13, US14, US22                         |
+| Duy                      | US8, US9, US10, US17                           |
 
 ## Kết Luận
 Dự án Little Angel Milk không chỉ đơn thuần là một trang web bán sữa mà còn là một nền tảng chăm sóc sức khỏe toàn diện cho mẹ và bé, với các tính năng và công nghệ tiên tiến nhằm mang lại trải nghiệm tốt nhất cho người dùng.
