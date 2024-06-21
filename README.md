@@ -43,7 +43,7 @@ Dự án phát triển một trang web bán sữa mang tên "Little Angel Milk",
 |         |                                           |
 | Sprint 4|  US23, US11, US19, US22, US17             |
              
-## Member Assignments for Sprint 1
+## Member Assignments for Sprints 
 
 | Member      | User Story (US) Assigned                                    |
 |-------------|-------------------------------------------------------------|
