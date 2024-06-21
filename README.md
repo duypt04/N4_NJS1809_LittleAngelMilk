@@ -35,13 +35,14 @@ Dự án phát triển một trang web bán sữa mang tên "Little Angel Milk",
 
 | Sprint  | User Story (US) IDs                       |
 |---------|-------------------------------------------|
-| Sprint 1| US1, US2, US3, US4                        |
-|         | US5, US6, US7, US8                        |
-|         | US9, US10, US11, US12                     |
-|         | US13, US14, US15, US16                    |
-|         | US17, US18, US19, US20                    |
-|         | US21, US22, US23                          |
-
+| Sprint 1|  US16, US4, US1, US3, US12, US8           |
+|         |                                           |
+| Sprint 2|  US20, US6, US2, US15, US13, US9          |
+|         |                                           |
+| Sprint 3|  US21, US7, US5, US18, US14, US10         |
+|         |                                           |
+| Sprint 4|  US23, US11, US19, US22, US17             |
+             
 ## Member Assignments for Sprint 1
 
 | Member      | User Story (US) Assigned                                    |
